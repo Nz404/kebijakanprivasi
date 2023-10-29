@@ -5,6 +5,11 @@ Kami telah mengadopsi Kebijakan Privasi ini untuk menjelaskan bagaimana kami mem
 
 Kami menjaga data pribadi Anda dan berjanji untuk menjamin kerahasiaan dan keamanannya.
 
+Tidak ada pengumpulan data dideklarasikan memberitahukan bahwa aplikasi ini tidak mengumpulkan data pengguna
+
+Tidak ada data yang dibagikan kepada pihak ketiga memberitahukan bahwa aplikasi ini tidak membagikan data pengguna kepada perusahaan atau organisasi lain
+
+
 Informasi pribadi yang kami kumpulkan:
 Saat Anda mengunjungi https://github.com/Nz404, kami secara otomatis mengumpulkan informasi tertentu mengenai perangkat Anda, termasuk informasi tentang browser web, alamat IP, zona waktu, dan sejumlah cookie yang terinstal di perangkat Anda. Selain itu, selama Anda menjelajahi Website, kami mengumpulkan informasi tentang setiap halaman web atau produk yang Anda lihat, website atau istilah pencarian apa yang mengarahkan Anda ke Website, dan cara Anda berinteraksi dengan Website. Kami menyebut informasi yang dikumpulkan secara otomatis ini sebagai "Informasi Perangkat". Kemudian, kami mungkin akan mengumpulkan data pribadi yang Anda berikan kepada kami (termasuk tetapi tidak terbatas pada, Nama, Nama belakang, Alamat, informasi pembayaran, dll.) selama pendaftaran untuk dapat memenuhi perjanjian.
 
